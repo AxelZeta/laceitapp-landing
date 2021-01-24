@@ -1,0 +1,207 @@
+[22-Jul-2020 17:09:41 Europe/Rome] PHP Fatal error:  Call to a member function query() on null in /home/efarm/public_html_laceitapp.it/salva.php on line 30
+[22-Jul-2020 17:09:48 Europe/Rome] PHP Fatal error:  Call to a member function query() on null in /home/efarm/public_html_laceitapp.it/salva.php on line 30
+[22-Jul-2020 17:09:49 Europe/Rome] PHP Fatal error:  Call to a member function query() on null in /home/efarm/public_html_laceitapp.it/salva.php on line 30
+[22-Jul-2020 17:09:49 Europe/Rome] PHP Fatal error:  Call to a member function query() on null in /home/efarm/public_html_laceitapp.it/salva.php on line 30
+[22-Jul-2020 17:09:49 Europe/Rome] PHP Fatal error:  Call to a member function query() on null in /home/efarm/public_html_laceitapp.it/salva.php on line 30
+[22-Jul-2020 17:10:02 Europe/Rome] PHP Fatal error:  Call to a member function query() on null in /home/efarm/public_html_laceitapp.it/salva.php on line 30
+[22-Jul-2020 17:10:24 Europe/Rome] PHP Fatal error:  Call to a member function query() on null in /home/efarm/public_html_laceitapp.it/salva.php on line 30
+[22-Jul-2020 17:12:23 Europe/Rome] PHP Fatal error:  Call to a member function query() on null in /home/efarm/public_html_laceitapp.it/salva.php on line 30
+[22-Jul-2020 17:13:02 Europe/Rome] PHP Notice:  Undefined index: nome in /home/efarm/public_html_laceitapp.it/salva.php on line 28
+[22-Jul-2020 17:13:02 Europe/Rome] PHP Notice:  Undefined index: cognome in /home/efarm/public_html_laceitapp.it/salva.php on line 28
+[22-Jul-2020 17:13:02 Europe/Rome] PHP Notice:  Undefined index: email in /home/efarm/public_html_laceitapp.it/salva.php on line 28
+[22-Jul-2020 17:13:02 Europe/Rome] PHP Notice:  Undefined index: brand in /home/efarm/public_html_laceitapp.it/salva.php on line 28
+[22-Jul-2020 17:13:02 Europe/Rome] PHP Notice:  Undefined variable: mysql in /home/efarm/public_html_laceitapp.it/salva.php on line 30
+[22-Jul-2020 17:13:02 Europe/Rome] PHP Fatal error:  Call to a member function query() on null in /home/efarm/public_html_laceitapp.it/salva.php on line 30
+[22-Jul-2020 17:14:09 Europe/Rome] PHP Notice:  Undefined index: nome in /home/efarm/public_html_laceitapp.it/salva.php on line 28
+[22-Jul-2020 17:14:09 Europe/Rome] PHP Notice:  Undefined index: cognome in /home/efarm/public_html_laceitapp.it/salva.php on line 28
+[22-Jul-2020 17:14:09 Europe/Rome] PHP Notice:  Undefined index: email in /home/efarm/public_html_laceitapp.it/salva.php on line 28
+[22-Jul-2020 17:14:09 Europe/Rome] PHP Notice:  Undefined index: brand in /home/efarm/public_html_laceitapp.it/salva.php on line 28
+[03-Aug-2020 15:31:20 Europe/Rome] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/efarm/public_html_laceitapp.it/cerca.php on line 7
+[03-Aug-2020 15:32:00 Europe/Rome] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 15:32:31 Europe/Rome] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 15:33:10 Europe/Rome] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 15:34:51 Europe/Rome] PHP Fatal error:  Cannot use object of type stdClass as array in /home/efarm/public_html_laceitapp.it/cerca.php on line 13
+[03-Aug-2020 17:12:23 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air Jordan 1 ): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 17:12:23 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[03-Aug-2020 17:12:23 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 17:12:23 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 17:12:50 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air max ): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 17:12:50 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[03-Aug-2020 17:12:50 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 17:12:50 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 17:14:14 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air Jordan 1 Chicago ): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 17:14:14 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[03-Aug-2020 17:14:14 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 17:14:14 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 17:18:35 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air jordan): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 17:18:35 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[03-Aug-2020 17:18:35 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 17:18:35 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 17:18:46 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air force): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 17:18:46 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[03-Aug-2020 17:18:46 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 17:18:46 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 18:23:51 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air jordan 1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 18:23:51 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[03-Aug-2020 18:23:51 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 18:23:51 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 18:23:54 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air jordan 1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 18:23:54 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[03-Aug-2020 18:23:54 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 18:23:54 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 22:36:07 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air jordan 1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 22:36:07 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[03-Aug-2020 22:36:07 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 22:36:07 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 22:55:43 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air max 1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 22:55:43 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[03-Aug-2020 22:55:43 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 22:55:43 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 23:28:16 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air Force one ): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[03-Aug-2020 23:28:16 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[03-Aug-2020 23:28:16 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[03-Aug-2020 23:28:16 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 09:27:36 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=air force): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 09:27:36 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[04-Aug-2020 09:27:36 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 09:27:36 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 09:28:01 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=air force): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 09:28:01 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[04-Aug-2020 09:28:01 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 09:28:01 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 09:28:42 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=air force): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 09:28:42 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[04-Aug-2020 09:28:42 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 09:28:42 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 09:28:45 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=air force): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 09:28:45 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[04-Aug-2020 09:28:45 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 09:28:45 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 09:30:30 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=air force): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 09:30:30 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[04-Aug-2020 09:30:30 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 09:30:30 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 10:11:10 Europe/Rome] PHP Notice:  Undefined index: q in /home/efarm/public_html_laceitapp.it/cerca.php on line 9
+[04-Aug-2020 10:11:11 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 10:11:11 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 130
+[04-Aug-2020 10:11:11 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 10:11:11 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 136
+[04-Aug-2020 14:48:55 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=air max 1 safari): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 14:48:55 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 14:48:55 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 14:48:55 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 14:50:00 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=air max 1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 14:50:00 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 14:50:00 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 14:50:00 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 14:50:36 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=air max 1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 14:50:36 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 14:50:36 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 14:50:36 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 14:50:42 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=air max): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 14:50:42 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 14:50:42 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 14:50:42 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 19:58:40 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air max 1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 19:58:40 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 19:58:40 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 19:58:40 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 19:58:50 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air max): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 19:58:50 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 19:58:50 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 19:58:50 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 20:56:23 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=jordan 1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 20:56:23 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 20:56:23 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 20:56:23 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 20:58:29 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=jordan 1): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 20:58:29 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 20:58:29 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 20:58:29 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 21:04:26 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=adidas yeezy): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 21:04:26 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 21:04:26 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 21:04:26 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 21:09:02 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=adidas d): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 21:09:02 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 21:09:02 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 21:09:02 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 21:21:27 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air max): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 21:21:27 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 21:21:27 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 21:21:27 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 21:42:51 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=air max): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[04-Aug-2020 21:42:51 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[04-Aug-2020 21:42:51 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[04-Aug-2020 21:42:51 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[13-Aug-2020 14:22:15 Europe/Rome] PHP Notice:  Undefined index: q in /home/efarm/public_html_laceitapp.it/cerca.php on line 9
+[13-Aug-2020 14:22:17 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[13-Aug-2020 14:22:17 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[13-Aug-2020 14:22:17 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[13-Aug-2020 14:22:17 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[21-Aug-2020 12:42:10 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air+max+1): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[21-Aug-2020 12:42:10 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[21-Aug-2020 12:42:10 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[21-Aug-2020 12:42:10 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[21-Aug-2020 12:42:32 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Air+max): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[21-Aug-2020 12:42:32 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[21-Aug-2020 12:42:32 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[21-Aug-2020 12:42:32 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[21-Aug-2020 12:42:43 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Nike): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[21-Aug-2020 12:42:43 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[21-Aug-2020 12:42:43 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[21-Aug-2020 12:42:43 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[21-Aug-2020 15:05:37 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Nike): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[21-Aug-2020 15:05:37 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[21-Aug-2020 15:05:37 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[21-Aug-2020 15:05:37 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[21-Aug-2020 15:05:39 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=Nike): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[21-Aug-2020 15:05:39 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[21-Aug-2020 15:05:39 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[21-Aug-2020 15:05:39 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[24-Aug-2020 10:12:37 Europe/Rome] PHP Notice:  Undefined index: q in /home/efarm/public_html_laceitapp.it/cerca.php on line 9
+[24-Aug-2020 10:12:40 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[24-Aug-2020 10:12:40 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[24-Aug-2020 10:12:40 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[24-Aug-2020 10:12:40 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[24-Aug-2020 21:59:58 Europe/Rome] PHP Notice:  Undefined index: q in /home/efarm/public_html_laceitapp.it/cerca.php on line 9
+[24-Aug-2020 21:59:58 Europe/Rome] PHP Warning:  file_get_contents(https://api.thesneakerdatabase.com/v1/sneakers?limit=100&amp;name=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/efarm/public_html_laceitapp.it/cerca.php on line 11
+[24-Aug-2020 21:59:58 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 154
+[24-Aug-2020 21:59:58 Europe/Rome] PHP Notice:  Trying to get property of non-object in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
+[24-Aug-2020 21:59:58 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/efarm/public_html_laceitapp.it/cerca.php on line 160
